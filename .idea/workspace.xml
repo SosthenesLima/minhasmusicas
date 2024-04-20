@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Modelando nossa aplicação de áudio02" />
+    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Modelando nossa aplicação de áudio03">
+      <change beforePath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/modelos/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/modelos/Musica.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
       <workItem from="1713400401115" duration="1035000" />
       <workItem from="1713492195473" duration="61000" />
       <workItem from="1713572231169" duration="198000" />
-      <workItem from="1713652203314" duration="970000" />
+      <workItem from="1713652203314" duration="1387000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -89,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713653155661</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit - Modelando nossa aplicação de áudio03">
+      <option name="closed" value="true" />
+      <created>1713653448857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713653448857</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +110,8 @@
     <MESSAGE value="Commit - Inicial02" />
     <MESSAGE value="Commit - Modelando nossa aplicação de áudio01" />
     <MESSAGE value="Commit - Modelando nossa aplicação de áudio02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Modelando nossa aplicação de áudio02" />
+    <MESSAGE value="Commit - Modelando nossa aplicação de áudio03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Modelando nossa aplicação de áudio03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
