@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Instanciando músicas e podcasts02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Atualização" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +57,7 @@
       <workItem from="1713572231169" duration="198000" />
       <workItem from="1713652203314" duration="1681000" />
       <workItem from="1713705015884" duration="2197000" />
+      <workItem from="1713835030550" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -124,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713706539483</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit - Atualização">
+      <option name="closed" value="true" />
+      <created>1713835082280</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713835082280</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +146,8 @@
     <MESSAGE value="Commit - Modelando nossa aplicação de áudio04" />
     <MESSAGE value="Commit - Instanciando músicas e podcasts01" />
     <MESSAGE value="Commit - Instanciando músicas e podcasts02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Instanciando músicas e podcasts02" />
+    <MESSAGE value="Commit - Atualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
