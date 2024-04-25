@@ -1,3 +1,8 @@
+/*
+  By Sósthenes Oliveira Lima
+
+ */
+
 package br.com.sosthenes.minhasmusicas.modelos;
 
 public class Musica extends Audio{

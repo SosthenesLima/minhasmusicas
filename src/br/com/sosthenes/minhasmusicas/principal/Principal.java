@@ -1,8 +1,6 @@
 /*
   By Sósthenes Oliveira Lima
   22/04/2024
-
-
  */
 
 package br.com.sosthenes.minhasmusicas.principal;
