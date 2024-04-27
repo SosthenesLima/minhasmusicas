@@ -1,3 +1,7 @@
+/*
+  By Sósthenes Oliveira Lima
+ */
+
 package br.com.sosthenes.minhasmusicas.modelos;
 
 public class Podcast extends Audio {
