@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Atualização" />
+    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Atualização02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +62,7 @@
       <workItem from="1714007290073" duration="569000" />
       <workItem from="1714090904777" duration="244000" />
       <workItem from="1714183106105" duration="55000" />
+      <workItem from="1714354255539" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -167,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714183148594</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit - Atualização02">
+      <option name="closed" value="true" />
+      <created>1714354285332</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714354285332</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,11 +191,11 @@
     <MESSAGE value="Commit - Modelando nossa aplicação de áudio04" />
     <MESSAGE value="Commit - Instanciando músicas e podcasts01" />
     <MESSAGE value="Commit - Instanciando músicas e podcasts02" />
-    <MESSAGE value="Commit - Atualização02" />
     <MESSAGE value="Commit - Atualização03" />
     <MESSAGE value="Commit - Criando métodos reutilizáveis01" />
     <MESSAGE value="Commit - Atualização" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização" />
+    <MESSAGE value="Commit - Atualização02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
