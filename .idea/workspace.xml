@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Atualização03">
-      <change afterPath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/modelos/MinhasPreferidas.java" afterDir="false" />
+    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Criando métodos reutilizáveis04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/modelos/MinhasPreferidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/modelos/MinhasPreferidas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/modelos/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/modelos/Musica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/sosthenes/minhasmusicas/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sosthenesoliveiralima/IdeaProjects/minhasmusicas/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/sosthenesoliveiralima/IdeaProjects/minhasmusicas/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +70,8 @@
       <workItem from="1714183106105" duration="55000" />
       <workItem from="1714354255539" duration="42000" />
       <workItem from="1714442740669" duration="49000" />
-      <workItem from="1714528458159" duration="415000" />
+      <workItem from="1714528458159" duration="446000" />
+      <workItem from="1714565911696" duration="1477000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -190,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714442768131</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit - Criando métodos reutilizáveis04">
+      <option name="closed" value="true" />
+      <created>1714528888003</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1714528888003</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +220,8 @@
     <MESSAGE value="Commit - Atualização" />
     <MESSAGE value="Commit - Atualização02" />
     <MESSAGE value="Commit - Atualização03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização03" />
+    <MESSAGE value="Commit - Criando métodos reutilizáveis04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Criando métodos reutilizáveis04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

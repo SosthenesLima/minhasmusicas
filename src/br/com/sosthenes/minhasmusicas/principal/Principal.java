@@ -5,6 +5,7 @@
 
 package br.com.sosthenes.minhasmusicas.principal;
 
+import br.com.sosthenes.minhasmusicas.modelos.MinhasPreferidas;
 import br.com.sosthenes.minhasmusicas.modelos.Musica;
 import br.com.sosthenes.minhasmusicas.modelos.Podcast;
 
@@ -38,6 +39,10 @@ public class Principal {
 
             
         }
+
+        MinhasPreferidas preferidas = new MinhasPreferidas();
+        preferidas.inclui(meuPodcast);
+        preferidas.inclui(minhaMusica);
     }
 
 }

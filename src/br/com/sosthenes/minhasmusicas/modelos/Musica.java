@@ -32,7 +32,7 @@ public class Musica extends Audio{
         return genero;
     }
 
-    public void setGenero(String genero
+    public void setGenero(String genero)
             {
         this.genero = genero;
     }
