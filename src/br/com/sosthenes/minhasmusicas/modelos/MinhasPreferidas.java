@@ -1,3 +1,8 @@
+/*
+  By Sósthenes Oliveira Lima
+   Finalizado em 02/05/2024
+ */
+
 package br.com.sosthenes.minhasmusicas.modelos;
 
 public class MinhasPreferidas {
