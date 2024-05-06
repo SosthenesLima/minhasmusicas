@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Finalização01" />
+    <list default="true" id="77e371da-6222-4d90-ae55-7d461f804bf8" name="Changes" comment="Commit - Finalização02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +69,7 @@
       <workItem from="1714565911696" duration="2245000" />
       <workItem from="1714701143741" duration="228000" />
       <workItem from="1714781015177" duration="153000" />
+      <workItem from="1714870223825" duration="81000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -222,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714781155560</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Commit - Finalização02">
+      <option name="closed" value="true" />
+      <created>1714870289803</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1714870289803</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +254,8 @@
     <MESSAGE value="Commit - Criando métodos reutilizáveis05" />
     <MESSAGE value="Commit - Finalização" />
     <MESSAGE value="Commit - Finalização01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Finalização01" />
+    <MESSAGE value="Commit - Finalização02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Finalização02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
